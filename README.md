@@ -18,6 +18,8 @@ Follow the setup instructions provided in this [SetUp](https://github.com/larpon
     gradle.properties
     AndroidManifest.xml
 
+> Don't forget to place google-services.json in the android-build directory as well.
+
 Environment Setup
 
 Ensure you have the following versions installed:
