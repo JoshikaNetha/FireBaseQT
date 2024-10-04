@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359865990643",
+    "project_id": "messenger-c5f1d",
+    "storage_bucket": "messenger-c5f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359865990643:android:e0be88d01f85d89a5c6686",
+        "android_client_info": {
+          "package_name": "com.croyance.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_Pn1mKw6cdyI8-0Meg8jM1JW_7v09Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
