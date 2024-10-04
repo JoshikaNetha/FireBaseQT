@@ -4,8 +4,10 @@ This project integrates Firebase C++ SDK with Qt and Android development.
 Follow the steps below to set up the environment and ensure successful compilation.
 
 Clone the repository:
-`git clone [<repository-url>](https://github.com/JoshikaNetha/FireBaseQT.git)`
-`cd FireBaseQT`
+```
+git clone https://github.com/JoshikaNetha/FireBaseQT.git
+cd FireBaseQT
+```
 
 Initialize and update submodules:
 `git submodule update --init --recursive`
